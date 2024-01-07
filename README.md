@@ -1,2 +1,1 @@
-# Flappy-bird-game-
-Flappy bird 
+Rock paper scissors
